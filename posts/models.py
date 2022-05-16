@@ -6,7 +6,7 @@ class Post(models.Model):
     author = models.ForeignKey(
         'auth.User',
         on_delete=models.CASCADE
-    )
+        )
     body = models.TextField()
     created_on = models.DateTimeField(auto_now_add=True)
 

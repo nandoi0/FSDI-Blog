@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(149,146,146);
+    background: linear-gradient(90deg, rgba(149,146,146,1) 0%, rgba(247,245,245,1) 100%, rgba(210,19,19,0.9962578781512605) 100%);
+    color: rgb(99, 100, 118);
+    margin: 0;
+    border-top:  3px solid gray;
+    position: fixed;
+    
+
+
+
+    
+}
